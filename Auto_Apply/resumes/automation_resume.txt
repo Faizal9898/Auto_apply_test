@@ -1,0 +1,37 @@
+Pune, Maharashtra
+MOHD UMAR ABBASI	umarabbasi2805@gmail.com
+Automation Test Engineer	+91-8770873401
+	LinkedIn
+PROFESSIONAL SUMMARY
+Detail-oriented Automation Test Engineer with 4 years of experience in manual and automation testing for telecom business support systems (BSS), progressing from manual functional testing to test automation engineering. Designed, executed, and automated test plans across CRM, OMS, billing, and digital channels (web and mobile) throughout the SDLC and STLC, with web and API automation built on Playwright with JavaScript, Cucumber BDD, and CI/CD pipelines. Applied AI-assisted workflows, generative AI tools, and AI agents to accelerate test case design, scripting, defect analysis, and documentation, and built an AI-powered test case design tool that reduced test design effort from 6 days to 2 days per task. Raised ~600 defects across ~15 releases and was recognized multiple times for the highest defect count at cluster level. Strong track record in customer migration validation, stakeholder collaboration, and Agile delivery with product owners and development teams.
+
+TECHNICAL SKILLS
+Testing Types: Automation Testing, Functional Testing, System Integration Testing (SIT), User Acceptance Testing (UAT), Regression, Sanity, Smoke testing, Black-Box Testing, End-to-End, Compatibility, Mobile App Testing, API Testing.
+Domain & Applications: Telecom BSS, CRM, OMS, AR, Billing, Digital Web and Mobile, AEM, Discounts and coupons, Payments.
+Automation: Playwright with JavaScript, Cucumber (BDD), CI/CD pipeline integration
+Programming: JavaScript, Unix
+Testing Tools: SOAP UI, SQL and Database Validation, MongoDB, Postman.
+Test Management: SDLC, STLC, Agile, Test Case Design, JIRA, HP ALM, Defect Lifecycle Management
+AI & Tools: AI Agents, AI-Assisted Test Case Design, Cursor, Claude, GitHub Copilot
+WORK EXPERIENCE
+Amdocs India Limited | September 2022 – September 2026
+Automation Test Engineer | Client: T-Mobile, US Cellular
+	Designed, developed, and maintained automated test suites for web and API layers using Playwright with JavaScript.
+	Implemented BDD test scenarios with Cucumber and integrated automated suites into CI/CD pipelines for continuous regression and release validation.
+	Performed web and API testing using Postman and SOAP UI; validated backend data and service responses using SQL and MongoDB.
+	Built an AI-powered test case design tool that generates structured, requirement-aligned test cases from project documents and user stories, reducing test design effort from 6 days to 2 days per task (~67% faster).
+	Leveraged AI-assisted workflows and AI agents (Cursor, Claude, GitHub Copilot) for intelligent test generation, script optimization, and faster defect root-cause analysis.
+	Executed end-to-end QA across the STLC (requirement analysis, test design, execution, defect reporting, and closure) within Agile delivery for telecom BSS applications, testing CRM, OMS, Billing, and digital systems (web portals and mobile applications).
+	Conducted end-to-end testing, System Integration Testing (SIT), regression, sanity, User Acceptance Testing (UAT), and compatibility testing, including post-migration validation of T-Mobile BSS applications; developed comprehensive test cases, scenarios, and test designs to ensure thorough requirement coverage.
+	Raised ~600 defects across ~15 releases (40–50 per release) and was recognized multiple times for the highest defect count at cluster level; managed defect lifecycle, test execution tracking, and reporting through JIRA and HP ALM throughout the software test life cycle.
+	Supported the complete customer migration from US Cellular to T-Mobile following client acquisition, validating migrated subscriber accounts, services, plans, and end-to-end BSS workflows.
+	Managed test environment setup, including environment sanitization and hotfix deployments (manual and via scripts), and contributed shell scripts for end-to-end health checks and pre-billing cleanup activities.
+	Reviewed IDDs and architecture documents to identify gaps, solution risks, and potential delivery hurdles; collaborated with product owners, stakeholders, and development teams to align on requirements, ensure complete test coverage, and confirm release readiness.
+	Supported post-production activities, including defect handling, triage, and end-to-end production sanity checks.
+EDUCATION
+B.Tech, Computer Science & Engineering — Sinhgad Institute of Technology, Pune University | 2018 – 2022 | Grade: 9.1 CGPA
+Higher Secondary School (10+2) — St Stephens Higher Secondary School | 2017 – 2018 | State Board | Percentage: 70%
+Secondary School — Morning Star School | 2015–2016 | CBSE | Grade: 8.0 CGPA
+RECOGNITION
+•	Recognized multiple times for the highest defect detection at cluster level (~600 defects across ~15 releases).
+•	Appreciated by Product Owners and development team for identifying solution gaps in user stories.
